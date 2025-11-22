@@ -1,4 +1,5 @@
 **COVID-19 Data Analytics Project**
+
 SQL • Excel • Tableau • Data Cleaning • Data Visualization
 
 This project explores global COVID-19 trends using SQL for data analysis, Excel for preprocessing, and Tableau for visualization.
@@ -25,6 +26,20 @@ Verified consistent country/date mappings between tables
 Set data types population, new_cases, and new_deaths fields to floats
 
 **🌸 SQL Analysis**
+Performed end-to-end SQL exploration, including:
+* Identifying countries with the highest total deaths
+
+* Calculating infection rates relative to population
+  
+* Measuring vaccination progress over time
+
+* Computing rolling counts of new vaccinations using window functions
+
+* Creating views and temporary tables for reusable analysis
+
+* Aggregating global totals for cases, deaths, and fatality rate
+
+This analysis provided the core metrics used in the final Tableau dashboard.
 
 **🌸 Tableau Dashboard**
 
